@@ -1,4 +1,4 @@
-# CSS
+# JS
 
 ## Aquí le ponemos estilo a todas nuestras páginas
 
